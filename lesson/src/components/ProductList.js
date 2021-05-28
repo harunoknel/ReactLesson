@@ -4,7 +4,7 @@ export default class ProductList extends Component {
 
     constructor(props){
         super(props);
-        state:{}
+        this.state={}
     }
     render() {
         return (
